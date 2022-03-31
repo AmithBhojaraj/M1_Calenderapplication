@@ -13,7 +13,7 @@
    
 ### Interface also provides an easy access to administrator of the hotel
     
-   ####The admin can simply login using a simple password and later check various things like
+   #### The admin can simply login using a simple password and later check various things like
        
    Number of booking requests and also check the the alloted rooms
    It also provides an easy way to check out the customer
