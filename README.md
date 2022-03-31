@@ -1,6 +1,6 @@
 # M1_Hotel_Management_project
-##This repository contains all about  Hotel management application
-###Customers can come and enjoy the comfort and hospitality at "HOTEL AMITH"
+## This repository contains all about  Hotel management application
+### Customers can come and enjoy the comfort and hospitality at "HOTEL AMITH"
 Folder structure is as follows:
  
 1_Requirements: Documents detailing requirements and research
