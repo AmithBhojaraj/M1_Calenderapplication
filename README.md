@@ -12,4 +12,11 @@ Folder structure is as follows:
 3_Implementation: 	All code and documentation
 
 
-4_Test_plan: 	Documents with test plans and procedures
+4_Test_plan and output: 	Documents with test plans and procedures
+
+
+5_Report:  This contains the report for the project
+
+
+6_Imagesandvideos:  This contains ceratin images and videos
+
