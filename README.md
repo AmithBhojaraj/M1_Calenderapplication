@@ -1,4 +1,7 @@
 # M1_Hotel_Management_project
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/485bc1b6539249229a997827daa1ad3f)](https://app.codacy.com/gh/AmithBhojaraj/M1_Hotel_Management_project?utm_source=github.com&utm_medium=referral&utm_content=AmithBhojaraj/M1_Hotel_Management_project&utm_campaign=Badge_Grade_Settings)
+
 ## This repository contains all about  Hotel management application
 ### Customers can come and enjoy the comfort and hospitality at "HOTEL AMITH"
 Folder structure is as follows:
